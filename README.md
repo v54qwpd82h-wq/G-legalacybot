@@ -1,0 +1,2 @@
+# G-legalacybot
+Germain bot
